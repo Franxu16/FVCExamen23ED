@@ -76,12 +76,17 @@ public class MostrarNumeros {
 *  **4.1  (0,3)Crea también un fichero de texto que no debes subir a github pero debe estar dentro de la carpeta NoSubir.txt: (Este archivo debes añadirlo y quitarlo, como si te hubieras confundido). “Este archivo debe estar en la carpeta pero no subido a git”.** 
 
 > Muestra por comandos que no lo has subido 
+![](Capturas/4.3.png)
+![](Capturas/4.4.png)
 
 > Sube los cambios al repositorio. 
+![](Capturas/4.5.png)
 
 **5.- (0,5) Muestra la diferencia entre los 2 últimos commits.** 
+![](Capturas/5.png)
 
 **6.- (0,5) Crea 2 ramas SUMADORES y RESTADORES** 
+![](Capturas/6.png)
 
 **7.- Sitúate en SUMADORES y añade al main lo siguiente:**
 
@@ -103,8 +108,11 @@ public static double potencia(double base, double exponente) {
 
     }  
 ```
+![](Capturas/7.png)
 
 > Sube los cambios al repositorio.
+![](Capturas/7.1.png)
+![](Capturas/7.2.png)
 
 **8.- Sitúate en RESTADORES y añade al main lo siguiente:**
 
@@ -143,17 +151,19 @@ public static double raizCuadrada(double a) {
 
     } 
 ```
+![](Capturas/8.png)
 
 > Sube los cambios al repositorio. 
+![](Capturas/8.1.png)
+![](Capturas/8.2.png)
 
 **9.- (1) Muestra la diferencia entre las ramas sumadores y restadores y guárdalo en un fichero llamado DIFERENCIA _RAMAS (desde consola). Este ficehro debe subirse al repositorio.** 
-
- 
+![](Capturas/9.png)
+![](Capturas/9.1.png)
 
 **10.- (1,5) Fusiónalo en main (consola) y resuelve el conflicto (en gitHUB).** 
 
 > Sube los cambios al repositorio. 
-
  
 
 **11.-(0,5) Borra las ramas SUMADORES Y RESTADORES.**
